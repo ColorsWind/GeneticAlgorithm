@@ -1,9 +1,8 @@
 # 遗传算法实现
 实现简易的遗传算法优化下面函数的最大值
-$$
-f(x, y) = 21.5 + x\sin(4 \pi x) + y\sin(20 \pi y)
-\qquad x\in[-3.0,12.1]\,,y\in[4.1,5.8]
-$$
+
+<img src="function.png" alt="function" style="zoom:50%;" />
+
 ### 一、函数的图像。
 
 使用`matplotlib`绘图，代码如下：
