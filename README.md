@@ -1,7 +1,9 @@
-# 智能算法及其应用
-
-## 个人作业2实验报告
-
+# 遗传算法实现
+实现简易的遗传算法优化下面函数的最大值
+$$
+f(x, y) = 21.5 + x\sin(4 \pi x) + y\sin(20 \pi y)
+\qquad x\in[-3.0,12.1]\,,y\in[4.1,5.8]
+$$
 ### 一、函数的图像。
 
 使用`matplotlib`绘图，代码如下：
@@ -37,9 +39,9 @@ plt.show()
 
 绘图如下：
 
-![Axes3D](./src/main/python/Axes3D.png)
+![Axes3D](./python/Axes3D.png)
 
-![Contourf](./src/main/python/Contourf.png)
+![Contourf](./python/Contourf.png)
 
 
 
