@@ -1,7 +1,7 @@
 # 遗传算法实现
 实现简易的遗传算法优化下面函数的最大值
 
-<img src="function.png" alt="function" style="zoom:50%;" />
+<img src="./function.png" alt="function" style="zoom:50%;" />
 
 ### 一、函数的图像。
 
